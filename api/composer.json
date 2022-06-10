@@ -8,7 +8,7 @@
         "api-platform/api-pack": "^1.1",
         "aws/aws-sdk-php-symfony": "^2.2",
         "doctrine/doctrine-migrations-bundle": "^2.0",
-        "guzzlehttp/guzzle": "^6.3",
+        "guzzlehttp/guzzle": "^7.4",
         "symfony/console": "4.4.*",
         "symfony/dotenv": "4.4.*",
         "symfony/flex": "^1.1",
